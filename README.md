@@ -16,5 +16,7 @@ Heroku free user အနေနဲ့ဆက်သုံးပီး visa card မ�
 @HK_heroku_BOT ကိုသွားပီး account auth လုပ်ပီးလျှင် မိမိ backup bot ကို 
 schedule နဲ့ run ပေးပါ။(ဥပမာ - တစ်နေ့လျှင် ၂ နာရီ ဒါဆိုလျှင် တစ်လလုံးနေမှ နာရီ ၆၀ သာကုန်ကျမည်ဖြစ်ပါသည်)
 
+Notice: Backup 1 and Backup 2 Drive မှာ folder တစ်ခုထဲမှာ file 2 ခုတူနေပါက အလိုအလျောက်ဖျက်ပါမည်။
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NoobFromMM/gdriveautobackupsystem)
