@@ -1,0 +1,35 @@
+{
+  "name": "AUTOBACKUP GOOGLE DRIVE by AungMyoMyat(MyatThawMaung",
+  "description": "FOR TEAM DRIVES BACKUP",
+  "logo": "https://i.imgur.com/ZLi4nDP.jpg",
+  "keywords": [
+    "AUTOBACKUP",
+    "GOOGLE DRIVES",
+    "FREE TRIAL",
+    "MOEDYIU"
+  ],
+  "repository": "https://github.com/NoobFromMM/gdriveautobackupsystem",
+  "website":   "https://awsitsolution.xyz/page/application",
+  "success_url": "https://awsitsolution.xyz/page/application",
+  "env": {
+    "first": {
+      "description": "MainDrive ID ထည့်ပေးပါ Main Drive ထဲသောဖိုင်များကို Backup 1 သို့ အလိုအလျောက်ကူးပေးပါမည်",
+      "value": "",
+      "required": true
+    },
+    "second": {
+      "description": "Backup 1 ID ထည့်ပေးပါ Main Drive ထဲကဖိုင်များ အလိုအလျောက်ကူးပေးပါမည်",
+      "value": "",
+      "required": true
+    },
+    "third": {
+      "description": "Backup Drive 2 ID ထည့်ပေးပါ Backup 1 ထဲကဖိုင်များ အလိုအလျောက်ကူးပေးပါမည်",
+      "value": "",
+      "required": false
+    }
+    
+  },
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
