@@ -1,16 +1,16 @@
 {
-  "name": "AUTOBACKUP GOOGLE DRIVE by AungMyoMyat(MyatThawMaung)",
+  "name": "AUTOBACKUP GOOGLE DRIVE",
   "description": "FOR TEAM DRIVES BACKUP",
-  "logo": "https://avatars.githubusercontent.com/u/39978097?v=4",
+  "logo": "https://publicmm.000webhostapp.com/logoz.jpg",
   "keywords": [
     "AUTOBACKUP",
     "GOOGLE DRIVES",
     "FREE TRIAL",
     "MOEDYIU"
   ],
-  "repository": "https://github.com/NoobFromMM/gdriveautobackupsystem",
-  "website":   "https://awsitsolution.xyz/page/application",
-  "success_url": "https://awsitsolution.xyz/page/application",
+  "repository": "https://github.com/drzawlinmg/autoBackupOwnHosting",
+  "website":   "https://github.com/drzawlinmg",
+  "success_url": "https://github.com/drzawlinmg",
   "env": {
     "first": {
       "description": "MainDrive ID ထည့်ပေးပါ Main Drive ထဲသောဖိုင်များကို Backup 1 သို့ အလိုအလျောက်ကူးပေးပါမည်",
