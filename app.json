@@ -8,9 +8,9 @@
     "FREE TRIAL",
     "MOEDYIU"
   ],
-  "repository": "https://github.com/drzawlinmg/autoBackupOwnHosting",
-  "website":   "https://github.com/drzawlinmg",
-  "success_url": "https://github.com/drzawlinmg",
+  "repository": "https://github.com/publicmm9/AutoBackupBot",
+  "website":   "https://github.com/publicmm9",
+  "success_url": "https://github.com/publicmm9",
   "env": {
     "first": {
       "description": "MainDrive ID ထည့်ပေးပါ Main Drive ထဲသောဖိုင်များကို Backup 1 သို့ အလိုအလျောက်ကူးပေးပါမည်",
