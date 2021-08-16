@@ -1,7 +1,7 @@
 {
   "name": "AUTOBACKUP GOOGLE DRIVE",
   "description": "FOR TEAM DRIVES BACKUP",
-  "logo": "https://publicmm.000webhostapp.com/logoz.jpg",
+  "logo": "https://publicmm.000webhostapp.com/bkbot.jpg",
   "keywords": [
     "AUTOBACKUP",
     "GOOGLE DRIVES",
@@ -13,17 +13,17 @@
   "success_url": "https://github.com/publicmm9",
   "env": {
     "first": {
-      "description": "MainDrive ID ထည့်ပေးပါ Main Drive ထဲသောဖိုင်များကို Backup 1 သို့ အလိုအလျောက်ကူးပေးပါမည်",
+      "description": "MainDrive ID ထည့်ပေးပါ Shared drive တခုကို link ထုတ်လိုက်ရင် ဒီလိုရပါတယ်။ https://drive.google.com/drive/u/0/folders/123WMR2rWjzTUk9abc ဒါက လင့်ခ်ပါ။ အဲဒီ drive ရဲ့ ID ဆိုတာက 123WMR2rWjzTUk9abc ဒါပါ။ ဒီ 123WMR2rWjzTUk9abc ကို ဖြည့်ရမှာပါ။ Main Drive ထဲသောဖိုင်များကို Backup 1 သို့ အလိုအလျောက်ကူးပေးပါမည်",
       "value": "",
       "required": true
     },
     "second": {
-      "description": "Backup 1 ID ထည့်ပေးပါ Main Drive ထဲကဖိုင်များ အလိုအလျောက်ကူးပေးပါမည်",
+      "description": "Backup 1 ID ထည့်ပေးပါ (ID ထုတ်နည်း အပေါ်ကနှင့်တူ) Main Drive ထဲကဖိုင်များ အလိုအလျောက်ကူးပေးပါမည်",
       "value": "",
       "required": true
     },
     "third": {
-      "description": "Backup Drive 2 ID ထည့်ပေးပါ Backup 1 ထဲကဖိုင်များ အလိုအလျောက်ကူးပေးပါမည်",
+      "description": "Backup Drive 2 ID ထည့်ပေးပါ (ID ထုတ်နည်း အပေါ်ကနှင့်တူ) Backup 1 ထဲကဖိုင်များ အလိုအလျောက်ကူးပေးပါမည်",
       "value": "",
       "required": false
     }
